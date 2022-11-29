@@ -60,3 +60,8 @@ $ gradlew build
 ```shell
 $ gradle wrapper --gradle-version=7.6
 ```
+
+### 4. config local gradle in idea
+
+
+> settings -> build tool -> gradle -> Use Gradle from : Specified location : `/opt/homebrew/Cellar/gradle/7.6/libexec`
